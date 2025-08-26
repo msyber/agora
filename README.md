@@ -5,10 +5,6 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/msyber/agora)
 [![Code Coverage](https://img.shields.io/badge/coverage-88%25-brightgreen.svg)](https://github.com/msyber/agora)
 
-<p align="center">
-  <img src="https://via.placeholder.com/900x300/1a1a1a/ffffff?text=🏛️+Agora+Autonomous+AI+Framework" alt="Agora Framework Banner">
-</p>
-
 **Agora** is a sophisticated, multi-agent AI framework designed to autonomously analyze financial markets, formulate strategies, and execute trades. It simulates a "digital agora"—a marketplace of ideas—where specialized AI agents collaborate, debate, and challenge each other to arrive at robust, evidence-backed financial decisions.
 
 Built on Google's Agent Development Kit (ADK), Agora demonstrates how complex workflows can be orchestrated across a society of agents, each with a unique role and expertise.
