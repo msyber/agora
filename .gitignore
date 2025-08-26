@@ -1,0 +1,56 @@
+# Python
+###################
+# Byte-compiled / optimized / C extensions
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Generated Artifacts
+# These are outputs from agent runs and should not be committed.
+*_news_raw.json
+*_insights.json
+*_causal_graph.json
+*_10K_risks_raw.txt
+*_trade_proposal.json
+*_trade_critique.json
+*_trade_audit.json
+*_trade_order.json
+*_trade_confirmation.json
+
+# IDE / Editor configuration
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
